@@ -297,11 +297,11 @@ class Authentication:
                         st.rerun()
        
         with col1:
-            st.write("###A product of")
-            st.image("https://github.com/clakshmanan/xdata/blob/main/Logo_Real_Value.png", width=175)
-            #st.markdown(
-            #'<p style="font-family:sans-serif;text-align:left; color:#eb1547; font-size: 45px;">X Data Byte</p>',
-            #unsafe_allow_html=True
+            st.write("####  A product of")
+            st.markdown(
+            '<p style="font-family:sans-serif;text-align:left; color:#e32b40; font-size: 35px;">XDATABYTE</p>',
+            unsafe_allow_html=True
+        )
         #)
             # local
             #st.image("C:/clak/_alfa_projects/_deployment/roku_data/contec.png", width=175)
